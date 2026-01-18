@@ -24,7 +24,7 @@ JavaScript
 
 # 🌐 Live Demo
 
-    🔗 https://abhhishek2433365.github.io/E-commerse_website/
+     https://abhhishek2433365.github.io/E-commerse_website/
 
 🎯 Purpose
 
