@@ -56,5 +56,3 @@ This project is licensed under the MIT License.
 # 👨‍💻 Author
   🔗 GitHub: https://github.com/abhhishek2433365
 
-Abhishek Singh
-🔗 GitHub: https://github.com/abhhishek2433365
